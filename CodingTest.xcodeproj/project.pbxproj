@@ -24,6 +24,16 @@
 		184621322707128E000A3CD3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		184621352707128E000A3CD3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		184621372707128E000A3CD3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		184D336C2715A9BD00F6775C /* 스택큐_프린터_level2.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "스택큐_프린터_level2.md"; sourceTree = "<group>"; };
+		184D336D27167F4B00F6775C /* 정렬_K번째수_level1.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "정렬_K번째수_level1.md"; sourceTree = "<group>"; };
+		184D336E27169FDB00F6775C /* 1ex.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = 1ex.md; sourceTree = "<group>"; };
+		184D336F2716A1C700F6775C /* 스택큐_다리를지나는트럭_level2.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "스택큐_다리를지나는트럭_level2.md"; sourceTree = "<group>"; };
+		18516164270DA13100071F49 /* 2ex.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = 2ex.md; sourceTree = "<group>"; };
+		18516165270DAC0E00071F49 /* 해시_완주하지못한선수_level1.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "해시_완주하지못한선수_level1.md"; sourceTree = "<group>"; };
+		18516166270DB08900071F49 /* 해시_전화번호 목록_level2.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "해시_전화번호 목록_level2.md"; sourceTree = "<group>"; };
+		18516167270DC2AB00071F49 /* 해시_위장_level2.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "해시_위장_level2.md"; sourceTree = "<group>"; };
+		18516168270EDE4C00071F49 /* 해시_베스트앨범_level3.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "해시_베스트앨범_level3.md"; sourceTree = "<group>"; };
+		18516169270EE24600071F49 /* 스택큐_기능개발_level2.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "스택큐_기능개발_level2.md"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +69,16 @@
 				184621292707128A000A3CD3 /* AppDelegate.swift */,
 				1846212B2707128A000A3CD3 /* SceneDelegate.swift */,
 				1846212D2707128A000A3CD3 /* ViewController.swift */,
+				184D336E27169FDB00F6775C /* 1ex.md */,
+				18516164270DA13100071F49 /* 2ex.md */,
+				18516165270DAC0E00071F49 /* 해시_완주하지못한선수_level1.md */,
+				18516166270DB08900071F49 /* 해시_전화번호 목록_level2.md */,
+				18516167270DC2AB00071F49 /* 해시_위장_level2.md */,
+				18516168270EDE4C00071F49 /* 해시_베스트앨범_level3.md */,
+				18516169270EE24600071F49 /* 스택큐_기능개발_level2.md */,
+				184D336C2715A9BD00F6775C /* 스택큐_프린터_level2.md */,
+				184D336F2716A1C700F6775C /* 스택큐_다리를지나는트럭_level2.md */,
+				184D336D27167F4B00F6775C /* 정렬_K번째수_level1.md */,
 				1846212F2707128A000A3CD3 /* Main.storyboard */,
 				184621322707128E000A3CD3 /* Assets.xcassets */,
 				184621342707128E000A3CD3 /* LaunchScreen.storyboard */,
