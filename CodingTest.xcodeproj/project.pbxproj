@@ -28,6 +28,14 @@
 		184D336D27167F4B00F6775C /* 정렬_K번째수_level1.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "정렬_K번째수_level1.md"; sourceTree = "<group>"; };
 		184D336E27169FDB00F6775C /* 1ex.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = 1ex.md; sourceTree = "<group>"; };
 		184D336F2716A1C700F6775C /* 스택큐_다리를지나는트럭_level2.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "스택큐_다리를지나는트럭_level2.md"; sourceTree = "<group>"; };
+		184D33702716BC4500F6775C /* 정렬_가장큰수_level2.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "정렬_가장큰수_level2.md"; sourceTree = "<group>"; };
+		184D33712716F9B400F6775C /* 정렬_HIndex_level2.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "정렬_HIndex_level2.md"; sourceTree = "<group>"; };
+		184D33722717098500F6775C /* 완전탐색_모의고사_level1.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "완전탐색_모의고사_level1.md"; sourceTree = "<group>"; };
+		184D33732717DC7700F6775C /* 완전탐색_소수찾기_level2.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "완전탐색_소수찾기_level2.md"; sourceTree = "<group>"; };
+		184D33742717F04600F6775C /* 알고리즘_정렬.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "알고리즘_정렬.md"; sourceTree = "<group>"; };
+		184D33752718519D00F6775C /* 알고리즘_BFS&DFS.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "알고리즘_BFS&DFS.md"; sourceTree = "<group>"; };
+		184D33762718575000F6775C /* 알고리즘_이진탐색.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "알고리즘_이진탐색.md"; sourceTree = "<group>"; };
+		184D337727186D8000F6775C /* 완전탐색_카펫_level2.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "완전탐색_카펫_level2.md"; sourceTree = "<group>"; };
 		18516164270DA13100071F49 /* 2ex.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = 2ex.md; sourceTree = "<group>"; };
 		18516165270DAC0E00071F49 /* 해시_완주하지못한선수_level1.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "해시_완주하지못한선수_level1.md"; sourceTree = "<group>"; };
 		18516166270DB08900071F49 /* 해시_전화번호 목록_level2.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "해시_전화번호 목록_level2.md"; sourceTree = "<group>"; };
@@ -69,6 +77,9 @@
 				184621292707128A000A3CD3 /* AppDelegate.swift */,
 				1846212B2707128A000A3CD3 /* SceneDelegate.swift */,
 				1846212D2707128A000A3CD3 /* ViewController.swift */,
+				184D33762718575000F6775C /* 알고리즘_이진탐색.md */,
+				184D33752718519D00F6775C /* 알고리즘_BFS&DFS.md */,
+				184D33742717F04600F6775C /* 알고리즘_정렬.md */,
 				184D336E27169FDB00F6775C /* 1ex.md */,
 				18516164270DA13100071F49 /* 2ex.md */,
 				18516165270DAC0E00071F49 /* 해시_완주하지못한선수_level1.md */,
@@ -79,6 +90,11 @@
 				184D336C2715A9BD00F6775C /* 스택큐_프린터_level2.md */,
 				184D336F2716A1C700F6775C /* 스택큐_다리를지나는트럭_level2.md */,
 				184D336D27167F4B00F6775C /* 정렬_K번째수_level1.md */,
+				184D33702716BC4500F6775C /* 정렬_가장큰수_level2.md */,
+				184D33712716F9B400F6775C /* 정렬_HIndex_level2.md */,
+				184D33722717098500F6775C /* 완전탐색_모의고사_level1.md */,
+				184D33732717DC7700F6775C /* 완전탐색_소수찾기_level2.md */,
+				184D337727186D8000F6775C /* 완전탐색_카펫_level2.md */,
 				1846212F2707128A000A3CD3 /* Main.storyboard */,
 				184621322707128E000A3CD3 /* Assets.xcassets */,
 				184621342707128E000A3CD3 /* LaunchScreen.storyboard */,
